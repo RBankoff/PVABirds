@@ -2,7 +2,7 @@
 Population viability analysis code for birds from NE Madagascar using the Vortex10 package
 
 ## Introduction
-This set of scripts modifies a Vortex10* scenario template to specify parameters for a set of bird species from Northeast Madagascar. Values for many of the life history parameters that are used to populate the simulations life tables came from Bird et al. (2020).
+This set of scripts modifies a Vortex10* scenario template to specify parameters for a set of bird species from Northeast Madagascar gathered by Cortni Borgerson *et al.*. Values for many of the life history parameters that are used to populate the simulations life tables came from Bird et al. (2020).
 
 
 *Vortex PVA software (Lacy & Pollak 2022) is provided under a CreativeCommons Attribution-NoDerivatives International License, courtesy of the Species Conservation Toolkit Initiative (https://scti.tools).
