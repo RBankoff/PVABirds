@@ -5,7 +5,7 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 
 # Read in bird data with cleaned headers
-bird_data_infile = pd.read_excel(io='03_08_ 2022_PVA_Bird_Data_cleaned.xlsx', engine='openpyxl')
+bird_data_infile = pd.read_excel(io='03_08_2022_PVA_Bird_Data_cleaned.xlsx', engine='openpyxl')
 
 # Counter to track rows
 counter = 0
