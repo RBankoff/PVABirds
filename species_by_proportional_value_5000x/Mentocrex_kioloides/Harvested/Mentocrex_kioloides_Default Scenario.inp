@@ -1,0 +1,82 @@
+VORTEX 10.5.4.0 -- simulation of population dynamics
+
+Project: Mentocrex_kioloides
+
+Scenario: Default Scenario
+
+22/01/2023
+
+  1 populations simulated for 100 years for 5000 iterations
+
+
+Sequence of events in each time cycle:
+  EV
+  Breed
+  Mortality
+  Age
+  Disperse
+  Harvest
+  Supplement
+  rCalc
+  Ktruncation
+  GSUpdate
+  PSUpdate
+  ISUpdate
+  Census
+
+Extinction defined as no males or no females.
+
+Inbreeding depression with a genetic load consisting of 
+  6.29 total lethal equivalents per individual, of which
+  50% are due to recessive lethals,
+  and the remainder are lethal equivalents not subjected to removal by selection.
+
+Populations:
+
+  Population1
+
+
+Reproductive System:
+
+  Polygyny, with new selection of mates each year
+  Females breed from age 2 to age 15
+  Males breed from age 2 to age 15
+  Maximum age of survival: 15
+  Sex ratio (percent males) at birth: 50
+
+Correlation of EV between reproduction and survival = 0.5
+
+EV sampled from binomial distributions.
+
+
+Population specific rates for Population1
+
+  Percent of adult females breeding each year: 100
+    with EV(SD): 10
+  Percent of adult males in the pool of breeders: 100
+  Normal distribution of brood size with mean: 2.5 with SD: 1
+
+  Female annual mortality rates (as percents):
+    Age 0 to 1:    18.5267323 with EV(SD): 10
+    Age 1 to 2:    18.5267323 with EV(SD): 3
+    After age 2:    18.5267323 with EV(SD): 3
+
+  Male annual mortality rates (as percents):
+    Age 0 to 1:    18.5267323 with EV(SD): 10
+    Age 1 to 2:    18.5267323 with EV(SD): 3
+    After age 2:    18.5267323 with EV(SD): 3
+
+  Initial population size:
+        Age       0     1     2     3     4     5     6     7     8     9    10    11    12    13    14    15   Total
+  Females       0 40228 23328 13527  7844  4549  2637  1530   887   514   298   173   101    58    33    20 95727
+   Males         0 40228 23328 13527  7844  4549  2637  1530   887   514   298   173   101    58    33    20 95727
+
+  Carrying capacity: 191454
+    with EV(SD):  19145
+
+  Harvest from year 2 through year 115 by increments of 1
+        Age      0       1       2 
+    Females      0       0 (N/2)*0.0016766429533987277 
+      Males      0       0 (N/2)*0.0016766429533987277 
+
+
