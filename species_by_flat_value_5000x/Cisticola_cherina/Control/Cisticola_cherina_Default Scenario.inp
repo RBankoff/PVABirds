@@ -1,0 +1,76 @@
+VORTEX 10.5.4.0 -- simulation of population dynamics
+
+Project: Cisticola_cherina
+
+Scenario: Default Scenario
+
+22/01/2023
+
+  1 populations simulated for 100 years for 5000 iterations
+
+
+Sequence of events in each time cycle:
+  EV
+  Breed
+  Mortality
+  Age
+  Disperse
+  Harvest
+  Supplement
+  rCalc
+  Ktruncation
+  GSUpdate
+  PSUpdate
+  ISUpdate
+  Census
+
+Extinction defined as no males or no females.
+
+Inbreeding depression with a genetic load consisting of 
+  6.29 total lethal equivalents per individual, of which
+  50% are due to recessive lethals,
+  and the remainder are lethal equivalents not subjected to removal by selection.
+
+Populations:
+
+  Population1
+
+
+Reproductive System:
+
+  Polygyny, with new selection of mates each year
+  Females breed from age 1 to age 7
+  Males breed from age 1 to age 7
+  Maximum age of survival: 7
+  Sex ratio (percent males) at birth: 50
+
+Correlation of EV between reproduction and survival = 0.5
+
+EV sampled from binomial distributions.
+
+
+Population specific rates for Population1
+
+  Percent of adult females breeding each year: 100
+    with EV(SD): 10
+  Percent of adult males in the pool of breeders: 100
+  Normal distribution of brood size with mean: 2.5 with SD: 1
+
+  Female annual mortality rates (as percents):
+    Age 0 to 1:    45.1108221 with EV(SD): 10
+    After age 1:    45.1108221 with EV(SD): 3
+
+  Male annual mortality rates (as percents):
+    Age 0 to 1:    45.1108221 with EV(SD): 10
+    After age 1:    45.1108221 with EV(SD): 3
+
+  Initial population size:
+        Age       0     1     2     3     4     5     6     7   Total
+  Females       0 20446  9105  4054  1806   804   358   159 36732
+   Males         0 20446  9105  4054  1806   804   358   159 36732
+
+  Carrying capacity: 73464
+    with EV(SD):  7346
+
+
+
