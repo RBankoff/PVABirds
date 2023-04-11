@@ -1,0 +1,2 @@
+Scenario;nRuns;  Population; det-r;stoch-r;SD(r);   PE;N-extant;SD(N-ext);   N-all;SD(N-all);GeneDiv;SD(GD);nAlleles;SD(nA);medianTE;    TE; StateVars; SD(StateVars)
+Default Scenario;       5000;Population1;    0.2978;    0.2949;    0.0791;    0.0000;  14697.41;   1418.99;  14697.41;   1418.99;    0.0000;    0.0000;      0.00;      0.00;         0;       0.0
