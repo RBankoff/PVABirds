@@ -1,0 +1,63 @@
+Deterministic projections assume no stochastic fluctuations, no inbreeding depression, no limitation of mates, no harvest, and no supplementation.
+
+Scenario: Default Scenario
+
+Population 1: Population1
+
+Deterministic population growth rate:
+(Caution: Deterministic growth rate may not be meaningful if functions were used for some demographic rates.)
+
+     r = 0.3747
+
+     lambda = 1.4546
+
+     R0 = 2.2861
+
+   Generation time for:
+    females = 2.21
+    males = 2.21
+
+Stable age distribution:
+  Age class    females    males
+      0        0.278      0.278
+      1        0.123      0.123
+      2        0.055      0.055
+      3        0.024      0.024
+      4        0.011      0.011
+      5        0.005      0.005
+      6        0.002      0.002
+      7        0.001      0.001
+      8        0.000      0.000
+      9        0.000      0.000
+     10        0.000      0.000
+     11        0.000      0.000
+     12        0.000      0.000
+     13        0.000      0.000
+     14        0.000      0.000
+     15        0.000      0.000
+     16        0.000      0.000
+     17        0.000      0.000
+     18        0.000      0.000
+     19        0.000      0.000
+     20        0.000      0.000
+     21        0.000      0.000
+     22        0.000      0.000
+     23        0.000      0.000
+     24        0.000      0.000
+     25        0.000      0.000
+     26        0.000      0.000
+     27        0.000      0.000
+     28        0.000      0.000
+     29        0.000      0.000
+     30        0.000      0.000
+     31        0.000      0.000
+     32        0.000      0.000
+     33        0.000      0.000
+     34        0.000      0.000
+
+Ratio of adult males to adult females: 1.000
+
+Initial population size, N = 16238
+Initial carrying capacity, K = 16238
+
+
