@@ -1,0 +1,841 @@
+Results from VORTEX 10.5.4.0
+Project: Motacilla_flaviventris
+Scenario: Default Scenario
+
+Population 1: Population1
+
+Year 0
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136806.00 (0.00 SE; 0.00 SD)
+  Means across extant populations only:
+     Population size =          136806.00 (0.00 SE; 0.00 SD)
+
+Year 1
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137044.44 (194.45 SE; 13749.41 SD)
+  Means across extant populations only:
+     Population size =          137044.44 (194.45 SE; 13749.41 SD)
+
+Year 2
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137019.12 (190.88 SE; 13496.91 SD)
+  Means across extant populations only:
+     Population size =          137019.12 (190.88 SE; 13496.91 SD)
+
+Year 3
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136768.02 (196.13 SE; 13868.27 SD)
+  Means across extant populations only:
+     Population size =          136768.02 (196.13 SE; 13868.27 SD)
+
+Year 4
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136723.68 (192.17 SE; 13588.64 SD)
+  Means across extant populations only:
+     Population size =          136723.68 (192.17 SE; 13588.64 SD)
+
+Year 5
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136831.56 (193.67 SE; 13694.32 SD)
+  Means across extant populations only:
+     Population size =          136831.56 (193.67 SE; 13694.32 SD)
+
+Year 6
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136728.23 (194.47 SE; 13751.03 SD)
+  Means across extant populations only:
+     Population size =          136728.23 (194.47 SE; 13751.03 SD)
+
+Year 7
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136940.44 (193.99 SE; 13717.47 SD)
+  Means across extant populations only:
+     Population size =          136940.44 (193.99 SE; 13717.47 SD)
+
+Year 8
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136292.71 (191.60 SE; 13547.91 SD)
+  Means across extant populations only:
+     Population size =          136292.71 (191.60 SE; 13547.91 SD)
+
+Year 9
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137214.69 (193.13 SE; 13656.55 SD)
+  Means across extant populations only:
+     Population size =          137214.69 (193.13 SE; 13656.55 SD)
+
+Year 10
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136824.72 (194.29 SE; 13738.44 SD)
+  Means across extant populations only:
+     Population size =          136824.72 (194.29 SE; 13738.44 SD)
+
+Year 11
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136666.32 (193.03 SE; 13649.61 SD)
+  Means across extant populations only:
+     Population size =          136666.32 (193.03 SE; 13649.61 SD)
+
+Year 12
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136885.56 (190.96 SE; 13502.97 SD)
+  Means across extant populations only:
+     Population size =          136885.56 (190.96 SE; 13502.97 SD)
+
+Year 13
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136860.15 (190.68 SE; 13483.44 SD)
+  Means across extant populations only:
+     Population size =          136860.15 (190.68 SE; 13483.44 SD)
+
+Year 14
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136917.27 (193.79 SE; 13703.11 SD)
+  Means across extant populations only:
+     Population size =          136917.27 (193.79 SE; 13703.11 SD)
+
+Year 15
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136855.85 (194.15 SE; 13728.35 SD)
+  Means across extant populations only:
+     Population size =          136855.85 (194.15 SE; 13728.35 SD)
+
+Year 16
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136821.87 (190.62 SE; 13478.62 SD)
+  Means across extant populations only:
+     Population size =          136821.87 (190.62 SE; 13478.62 SD)
+
+Year 17
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136786.03 (192.68 SE; 13624.27 SD)
+  Means across extant populations only:
+     Population size =          136786.03 (192.68 SE; 13624.27 SD)
+
+Year 18
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136920.82 (189.63 SE; 13408.98 SD)
+  Means across extant populations only:
+     Population size =          136920.82 (189.63 SE; 13408.98 SD)
+
+Year 19
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136759.36 (192.62 SE; 13620.49 SD)
+  Means across extant populations only:
+     Population size =          136759.36 (192.62 SE; 13620.49 SD)
+
+Year 20
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136470.82 (194.94 SE; 13784.27 SD)
+  Means across extant populations only:
+     Population size =          136470.82 (194.94 SE; 13784.27 SD)
+
+Year 21
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136694.11 (195.16 SE; 13799.88 SD)
+  Means across extant populations only:
+     Population size =          136694.11 (195.16 SE; 13799.88 SD)
+
+Year 22
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137001.80 (194.77 SE; 13772.25 SD)
+  Means across extant populations only:
+     Population size =          137001.80 (194.77 SE; 13772.25 SD)
+
+Year 23
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136710.26 (191.03 SE; 13507.53 SD)
+  Means across extant populations only:
+     Population size =          136710.26 (191.03 SE; 13507.53 SD)
+
+Year 24
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137085.94 (193.78 SE; 13702.20 SD)
+  Means across extant populations only:
+     Population size =          137085.94 (193.78 SE; 13702.20 SD)
+
+Year 25
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136782.45 (191.16 SE; 13516.85 SD)
+  Means across extant populations only:
+     Population size =          136782.45 (191.16 SE; 13516.85 SD)
+
+Year 26
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137069.46 (188.91 SE; 13357.79 SD)
+  Means across extant populations only:
+     Population size =          137069.46 (188.91 SE; 13357.79 SD)
+
+Year 27
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136476.11 (191.58 SE; 13546.70 SD)
+  Means across extant populations only:
+     Population size =          136476.11 (191.58 SE; 13546.70 SD)
+
+Year 28
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136599.92 (192.52 SE; 13613.16 SD)
+  Means across extant populations only:
+     Population size =          136599.92 (192.52 SE; 13613.16 SD)
+
+Year 29
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136933.31 (193.83 SE; 13706.00 SD)
+  Means across extant populations only:
+     Population size =          136933.31 (193.83 SE; 13706.00 SD)
+
+Year 30
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136986.47 (194.63 SE; 13762.29 SD)
+  Means across extant populations only:
+     Population size =          136986.47 (194.63 SE; 13762.29 SD)
+
+Year 31
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136943.76 (195.15 SE; 13799.07 SD)
+  Means across extant populations only:
+     Population size =          136943.76 (195.15 SE; 13799.07 SD)
+
+Year 32
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136672.60 (191.02 SE; 13506.97 SD)
+  Means across extant populations only:
+     Population size =          136672.60 (191.02 SE; 13506.97 SD)
+
+Year 33
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137168.99 (193.37 SE; 13673.18 SD)
+  Means across extant populations only:
+     Population size =          137168.99 (193.37 SE; 13673.18 SD)
+
+Year 34
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136869.46 (192.18 SE; 13589.06 SD)
+  Means across extant populations only:
+     Population size =          136869.46 (192.18 SE; 13589.06 SD)
+
+Year 35
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137000.29 (196.24 SE; 13876.26 SD)
+  Means across extant populations only:
+     Population size =          137000.29 (196.24 SE; 13876.26 SD)
+
+Year 36
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137000.89 (193.74 SE; 13699.45 SD)
+  Means across extant populations only:
+     Population size =          137000.89 (193.74 SE; 13699.45 SD)
+
+Year 37
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136688.59 (191.68 SE; 13554.09 SD)
+  Means across extant populations only:
+     Population size =          136688.59 (191.68 SE; 13554.09 SD)
+
+Year 38
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137157.34 (194.73 SE; 13769.48 SD)
+  Means across extant populations only:
+     Population size =          137157.34 (194.73 SE; 13769.48 SD)
+
+Year 39
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136618.86 (192.09 SE; 13582.87 SD)
+  Means across extant populations only:
+     Population size =          136618.86 (192.09 SE; 13582.87 SD)
+
+Year 40
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136890.75 (199.66 SE; 14118.23 SD)
+  Means across extant populations only:
+     Population size =          136890.75 (199.66 SE; 14118.23 SD)
+
+Year 41
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136896.68 (191.50 SE; 13541.32 SD)
+  Means across extant populations only:
+     Population size =          136896.68 (191.50 SE; 13541.32 SD)
+
+Year 42
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136630.72 (192.88 SE; 13638.87 SD)
+  Means across extant populations only:
+     Population size =          136630.72 (192.88 SE; 13638.87 SD)
+
+Year 43
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136638.59 (195.63 SE; 13833.30 SD)
+  Means across extant populations only:
+     Population size =          136638.59 (195.63 SE; 13833.30 SD)
+
+Year 44
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136743.01 (194.71 SE; 13768.03 SD)
+  Means across extant populations only:
+     Population size =          136743.01 (194.71 SE; 13768.03 SD)
+
+Year 45
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136913.80 (192.81 SE; 13633.78 SD)
+  Means across extant populations only:
+     Population size =          136913.80 (192.81 SE; 13633.78 SD)
+
+Year 46
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137195.60 (190.89 SE; 13498.11 SD)
+  Means across extant populations only:
+     Population size =          137195.60 (190.89 SE; 13498.11 SD)
+
+Year 47
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136553.83 (190.42 SE; 13464.62 SD)
+  Means across extant populations only:
+     Population size =          136553.83 (190.42 SE; 13464.62 SD)
+
+Year 48
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136844.13 (195.57 SE; 13828.62 SD)
+  Means across extant populations only:
+     Population size =          136844.13 (195.57 SE; 13828.62 SD)
+
+Year 49
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137198.93 (189.96 SE; 13432.03 SD)
+  Means across extant populations only:
+     Population size =          137198.93 (189.96 SE; 13432.03 SD)
+
+Year 50
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136590.94 (196.07 SE; 13864.11 SD)
+  Means across extant populations only:
+     Population size =          136590.94 (196.07 SE; 13864.11 SD)
+
+Year 51
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136594.05 (189.41 SE; 13393.52 SD)
+  Means across extant populations only:
+     Population size =          136594.05 (189.41 SE; 13393.52 SD)
+
+Year 52
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136831.34 (191.00 SE; 13505.77 SD)
+  Means across extant populations only:
+     Population size =          136831.34 (191.00 SE; 13505.77 SD)
+
+Year 53
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137149.55 (190.63 SE; 13479.56 SD)
+  Means across extant populations only:
+     Population size =          137149.55 (190.63 SE; 13479.56 SD)
+
+Year 54
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136656.39 (192.66 SE; 13623.29 SD)
+  Means across extant populations only:
+     Population size =          136656.39 (192.66 SE; 13623.29 SD)
+
+Year 55
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136729.34 (190.25 SE; 13452.71 SD)
+  Means across extant populations only:
+     Population size =          136729.34 (190.25 SE; 13452.71 SD)
+
+Year 56
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136849.13 (193.75 SE; 13700.24 SD)
+  Means across extant populations only:
+     Population size =          136849.13 (193.75 SE; 13700.24 SD)
+
+Year 57
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137002.83 (191.65 SE; 13551.36 SD)
+  Means across extant populations only:
+     Population size =          137002.83 (191.65 SE; 13551.36 SD)
+
+Year 58
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136759.71 (194.19 SE; 13731.21 SD)
+  Means across extant populations only:
+     Population size =          136759.71 (194.19 SE; 13731.21 SD)
+
+Year 59
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136593.66 (193.03 SE; 13649.24 SD)
+  Means across extant populations only:
+     Population size =          136593.66 (193.03 SE; 13649.24 SD)
+
+Year 60
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136719.67 (192.92 SE; 13641.80 SD)
+  Means across extant populations only:
+     Population size =          136719.67 (192.92 SE; 13641.80 SD)
+
+Year 61
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136710.30 (195.00 SE; 13788.73 SD)
+  Means across extant populations only:
+     Population size =          136710.30 (195.00 SE; 13788.73 SD)
+
+Year 62
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137174.68 (193.63 SE; 13692.00 SD)
+  Means across extant populations only:
+     Population size =          137174.68 (193.63 SE; 13692.00 SD)
+
+Year 63
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136849.95 (192.26 SE; 13594.95 SD)
+  Means across extant populations only:
+     Population size =          136849.95 (192.26 SE; 13594.95 SD)
+
+Year 64
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137002.06 (194.61 SE; 13760.71 SD)
+  Means across extant populations only:
+     Population size =          137002.06 (194.61 SE; 13760.71 SD)
+
+Year 65
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136605.51 (193.19 SE; 13660.93 SD)
+  Means across extant populations only:
+     Population size =          136605.51 (193.19 SE; 13660.93 SD)
+
+Year 66
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136620.61 (193.01 SE; 13647.88 SD)
+  Means across extant populations only:
+     Population size =          136620.61 (193.01 SE; 13647.88 SD)
+
+Year 67
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137143.91 (191.30 SE; 13527.18 SD)
+  Means across extant populations only:
+     Population size =          137143.91 (191.30 SE; 13527.18 SD)
+
+Year 68
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137009.09 (193.43 SE; 13677.67 SD)
+  Means across extant populations only:
+     Population size =          137009.09 (193.43 SE; 13677.67 SD)
+
+Year 69
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136633.18 (191.38 SE; 13532.49 SD)
+  Means across extant populations only:
+     Population size =          136633.18 (191.38 SE; 13532.49 SD)
+
+Year 70
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136784.38 (196.77 SE; 13913.82 SD)
+  Means across extant populations only:
+     Population size =          136784.38 (196.77 SE; 13913.82 SD)
+
+Year 71
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136187.89 (191.23 SE; 13522.13 SD)
+  Means across extant populations only:
+     Population size =          136187.89 (191.23 SE; 13522.13 SD)
+
+Year 72
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136896.76 (191.95 SE; 13572.76 SD)
+  Means across extant populations only:
+     Population size =          136896.76 (191.95 SE; 13572.76 SD)
+
+Year 73
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136853.96 (191.01 SE; 13506.70 SD)
+  Means across extant populations only:
+     Population size =          136853.96 (191.01 SE; 13506.70 SD)
+
+Year 74
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136488.99 (190.75 SE; 13487.84 SD)
+  Means across extant populations only:
+     Population size =          136488.99 (190.75 SE; 13487.84 SD)
+
+Year 75
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136912.61 (192.35 SE; 13600.94 SD)
+  Means across extant populations only:
+     Population size =          136912.61 (192.35 SE; 13600.94 SD)
+
+Year 76
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136775.36 (196.42 SE; 13888.76 SD)
+  Means across extant populations only:
+     Population size =          136775.36 (196.42 SE; 13888.76 SD)
+
+Year 77
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137148.47 (193.21 SE; 13661.92 SD)
+  Means across extant populations only:
+     Population size =          137148.47 (193.21 SE; 13661.92 SD)
+
+Year 78
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136778.58 (191.96 SE; 13573.51 SD)
+  Means across extant populations only:
+     Population size =          136778.58 (191.96 SE; 13573.51 SD)
+
+Year 79
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137197.61 (193.56 SE; 13687.11 SD)
+  Means across extant populations only:
+     Population size =          137197.61 (193.56 SE; 13687.11 SD)
+
+Year 80
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136735.18 (194.03 SE; 13719.76 SD)
+  Means across extant populations only:
+     Population size =          136735.18 (194.03 SE; 13719.76 SD)
+
+Year 81
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136182.56 (189.96 SE; 13432.10 SD)
+  Means across extant populations only:
+     Population size =          136182.56 (189.96 SE; 13432.10 SD)
+
+Year 82
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136495.06 (192.36 SE; 13602.23 SD)
+  Means across extant populations only:
+     Population size =          136495.06 (192.36 SE; 13602.23 SD)
+
+Year 83
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137181.16 (192.29 SE; 13597.06 SD)
+  Means across extant populations only:
+     Population size =          137181.16 (192.29 SE; 13597.06 SD)
+
+Year 84
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136814.84 (194.29 SE; 13738.56 SD)
+  Means across extant populations only:
+     Population size =          136814.84 (194.29 SE; 13738.56 SD)
+
+Year 85
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137033.07 (187.97 SE; 13291.18 SD)
+  Means across extant populations only:
+     Population size =          137033.07 (187.97 SE; 13291.18 SD)
+
+Year 86
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136857.09 (189.05 SE; 13368.09 SD)
+  Means across extant populations only:
+     Population size =          136857.09 (189.05 SE; 13368.09 SD)
+
+Year 87
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136542.61 (191.19 SE; 13519.23 SD)
+  Means across extant populations only:
+     Population size =          136542.61 (191.19 SE; 13519.23 SD)
+
+Year 88
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137150.46 (191.47 SE; 13538.66 SD)
+  Means across extant populations only:
+     Population size =          137150.46 (191.47 SE; 13538.66 SD)
+
+Year 89
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 137351.05 (191.15 SE; 13516.01 SD)
+  Means across extant populations only:
+     Population size =          137351.05 (191.15 SE; 13516.01 SD)
+
+Year 90
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136891.38 (191.85 SE; 13565.58 SD)
+  Means across extant populations only:
+     Population size =          136891.38 (191.85 SE; 13565.58 SD)
+
+Year 91
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136804.62 (192.20 SE; 13590.47 SD)
+  Means across extant populations only:
+     Population size =          136804.62 (192.20 SE; 13590.47 SD)
+
+Year 92
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136685.77 (196.37 SE; 13885.79 SD)
+  Means across extant populations only:
+     Population size =          136685.77 (196.37 SE; 13885.79 SD)
+
+Year 93
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136505.22 (191.19 SE; 13519.32 SD)
+  Means across extant populations only:
+     Population size =          136505.22 (191.19 SE; 13519.32 SD)
+
+Year 94
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136521.76 (194.97 SE; 13786.32 SD)
+  Means across extant populations only:
+     Population size =          136521.76 (194.97 SE; 13786.32 SD)
+
+Year 95
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136555.24 (194.43 SE; 13748.28 SD)
+  Means across extant populations only:
+     Population size =          136555.24 (194.43 SE; 13748.28 SD)
+
+Year 96
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136716.35 (191.83 SE; 13564.09 SD)
+  Means across extant populations only:
+     Population size =          136716.35 (191.83 SE; 13564.09 SD)
+
+Year 97
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136561.47 (190.84 SE; 13494.08 SD)
+  Means across extant populations only:
+     Population size =          136561.47 (190.84 SE; 13494.08 SD)
+
+Year 98
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136752.04 (191.76 SE; 13559.80 SD)
+  Means across extant populations only:
+     Population size =          136752.04 (191.76 SE; 13559.80 SD)
+
+Year 99
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136892.96 (191.72 SE; 13556.48 SD)
+  Means across extant populations only:
+     Population size =          136892.96 (191.72 SE; 13556.48 SD)
+
+Year 100
+     N[Extinct] =    0, P[E] =  0.000
+     N[Surviving] =  5000, P[S] =  1.000
+     N[1st extinct] =  0, P[1st extinct] =  0.000
+     Mean size (all populations) = 136675.60 (192.51 SE; 13612.18 SD)
+  Means across extant populations only:
+     Population size =          136675.60 (192.51 SE; 13612.18 SD)
+
+
+
+In 5000 simulations of Default Scenario for 100 years:
+  0 went extinct and 5000 survived.
+
+This gives a probability of extinction of 0.00000 (0.00000 SE),
+  or a probability of success of          1.00000 (0.00000 SE).
+
+Means across all populations (extant and extinct) ...
+Mean final population was 136675.60 (192.51 SE; 13612.18 SD).
+   Age 0   Adults    Total
+    0.0068337.79  68337.79 Males
+    0.0068337.80  68337.80 Females
+
+During 495000 simulation-years of harvest and/or supplementation
+  mean growth rate (r) was 0.5107 (0.0001 SE, 0.0946 SD)
+
+During 5000 simulation-years without harvest or supplementation
+  mean growth rate (r) was 0.5109 (0.0014 SE, 0.0955 SD)
+
+Across all years, prior to carrying capacity truncation,
+  mean growth rate (r) was 0.5107 (0.0001 SE, 0.0946 SD)
+
+0 of 0 harvests of females could not be completed because of insufficient animals.
+0 of 0 harvests of males could not be completed because of insufficient animals.
+*************************************************************************
+
