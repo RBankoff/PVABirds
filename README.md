@@ -1,5 +1,5 @@
 # PVABirds
-Population viability analysis code for birds from NE Madagascar using the Vortex10 package. 
+Population viability analysis code for birds from the Masoala peninsula of Northeast Madagascar using the Vortex10 package. 
 
 ## Introduction
 The simulatePVA.py script modifies a Vortex10* scenario template to specify parameters for a set of bird species from Northeast Madagascar gathered by Cortni Borgerson *et al.* (2023). Values for many of the life history parameters that are used to populate the simulations life tables came from Bird et al. (2020).
