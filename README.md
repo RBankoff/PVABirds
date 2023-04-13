@@ -24,6 +24,7 @@ Parameters that can be further set before running the script are:
 * Number of years that the model should be run for - set in the template file, line 56 (default value is "<nYears>100</nYears>")
 
 To run the simulations, change to the working directory containing the repo and enter the following command into a terminal:
+
 ```python simulatePVA.py```
 
 This will initiate a loop that will cycle through every species named in the excel datafile, creating a directory for each species within a superdirectory called "VOutput/species_folders/". Within each species folder (e.g. "Accipiter henstii"), there will be two subfolders: "Harvest" and "Control". 
