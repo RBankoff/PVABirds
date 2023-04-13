@@ -46,5 +46,6 @@ As each set of models was run 5,000x, and each "Harvest" run was accompanied by 
 ## Bibliography
 Bird, J. P., Martin, R., Akçakaya, H. R., Gilroy, J., Burfield, I. J., Garnett, S. T., ... & Butchart, S. H. (2020). Generation lengths of the world's birds and their implications for extinction risk. Conservation Biology, 34(5), 1252-1261.
 
-Lacy, R.C., and J.P. Pollak. 2022. Vortex: A stochastic simulation of the extinction process. Version 10.5.6. Chicago Zoological Society, Brookfield, Illinois, USA.
+Borgerson, C., Bankoff, R.J., Golden, C.D., Razafindrapaoly, B.N., Rasolofoniaina, B.J.R., Rajaona, D., Pascal, E., De Angelo, P., & Martin. D.A. (2023). Drivers and sustainability of bird hunting in Madagascar. Conservation Letters, *In Review*.
 
+Lacy, R.C., and J.P. Pollak. 2022. Vortex: A stochastic simulation of the extinction process. Version 10.5.6. Chicago Zoological Society, Brookfield, Illinois, USA.
